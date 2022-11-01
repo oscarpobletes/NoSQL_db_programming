@@ -19,7 +19,7 @@ let dep=[]
     }
     print(dep)
    
-//Buildinga
+//Buildings
 print("\nBUILDING:")
 let temp2
 let building=[]
